@@ -22,7 +22,7 @@
 ### 📉 Phase Initiale (Peu d'Exemples)
 - ❌ Faible capacité de généralisation
 - ⚠️ Modèle peu fiable
-- 📊 Performance insuffisantee
+- 📊 Performance insuffisante
 
 ### 📈 Phase d'Apprentissage
 - ✅ Amélioration progressive
